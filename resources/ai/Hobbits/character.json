@@ -1,26 +1,64 @@
 {
   "lord": {
-    "StrengthMultiplier": 1.5,
-    "DotCount": 2,
+    "StrengthMultiplier": 1,
     "DotColour": "Green",
+    "DotCount": 2,
     "Type": "Europ"
   },
   "startTroops": {
     "normal": {
+      "ArabArcher": 0,
+      "Slave": 0,
+      "Slinger": 5,
+      "Assassin": 0,
+      "HorseArcher": 0,
+      "ArabSwordsman": 0,
+      "FireThrower": 0,
       "EuropArcher": 10,
       "Spearman": 5,
-      "Slinger":5,
-      "Swordsman":1
+      "Maceman": 0,
+      "Crossbowman": 0,
+      "Pikeman": 0,
+      "Swordsman": 1,
+      "Knight": 0,
+      "Monk": 0,
+      "Engineer": 0
     },
     "crusader": {
       "ArabArcher": 8,
-      "ArabSwordsman": 4
+      "Slave": 0,
+      "Slinger": 0,
+      "Assassin": 0,
+      "HorseArcher": 0,
+      "ArabSwordsman": 4,
+      "FireThrower": 0,
+      "EuropArcher": 0,
+      "Spearman": 0,
+      "Maceman": 0,
+      "Crossbowman": 0,
+      "Pikeman": 0,
+      "Swordsman": 0,
+      "Knight": 0,
+      "Monk": 0,
+      "Engineer": 0
     },
     "deathmatch": {
+      "ArabArcher": 0,
+      "Slave": 0,
+      "Slinger": 5,
+      "Assassin": 0,
+      "HorseArcher": 0,
+      "ArabSwordsman": 0,
+      "FireThrower": 0,
       "EuropArcher": 10,
       "Spearman": 5,
-      "Slinger":5,
-      "Swordsman":1
+      "Maceman": 0,
+      "Crossbowman": 0,
+      "Pikeman": 0,
+      "Swordsman": 1,
+      "Knight": 0,
+      "Monk": 0,
+      "Engineer": 0
     }
   },
   "aic": {
@@ -45,9 +83,9 @@
     "Farm7": "AppleFarm",
     "Farm8": "DairyFarm",
     "PopulationPerFarm": 2,
-		"PopulationPerWoodcutter": 1,
-		"PopulationPerQuarry": 15,
-		"PopulationPerIronmine": 33333,
+    "PopulationPerWoodcutter": 1,
+    "PopulationPerQuarry": 15,
+    "PopulationPerIronmine": 33333,
     "PopulationPerPitchrig": 25,
     "MaxQuarries": 2,
     "MaxIronmines": 0,
@@ -193,7 +231,6 @@
     "AttMaxDefault": 30,
     "AttMainGroupsCount": 1,
     "TargetChoice": "Closest",
-
     "AIOxTethers_DisableInitialOxTether": 1,
     "AIOxTethers_Logic": 1,
     "AIOxTethers_MaxOxTethers": 8,
@@ -201,11 +238,9 @@
     "AIOxTethers_MinimumOxTethersPerQuarry": 3,
     "AIOxTethers_MaximumOxTethersPerQuarry": 4,
     "AIOxTethers_ThresholdStoneLoad": 5,
-    
-  "RunningUnits_Macemen": 1,
-	"RunningUnits_Slingers": 1,
-	"RunningUnits_Slaves": 1,
-	"RunningUnits_Spearmen": 1
-
+    "RunningUnits_Macemen": 1,
+    "RunningUnits_Spearmen": 1,
+    "RunningUnits_Slingers": 1,
+    "RunningUnits_Slaves": 1
   }
 }
