@@ -1,6 +1,6 @@
 {
   "lord": {
-    "StrengthMultiplier": 1.8,
+    "StrengthMultiplier": 1.4,
     "DotColour": "Blue",
     "DotCount": 1,
     "Type": "Arab"
@@ -21,7 +21,8 @@
       "Pikeman": 0,
       "Swordsman": 0,
       "Knight": 0,
-      "Monk": 0
+      "Monk": 0,
+      "Engineer": 0
     },
     "crusader": {
       "ArabArcher": 0,
@@ -38,7 +39,8 @@
       "Pikeman": 0,
       "Swordsman": 0,
       "Knight": 0,
-      "Monk": 0
+      "Monk": 0,
+      "Engineer": 0
     },
     "deathmatch": {
       "ArabArcher": 0,
@@ -55,7 +57,8 @@
       "Pikeman": 0,
       "Swordsman": 0,
       "Knight": 0,
-      "Monk": 0
+      "Monk": 0,
+      "Engineer": 0
     }
   },
   "aic": {
