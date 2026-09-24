@@ -4,13 +4,9 @@ name: LordofheRingsPaket
 author: Lord Phoenix
 version: 1.0.0
 dependencies:
-  StrongholdEurope: ^1.0.0
-  Ascension-AI-Tournament: ^3.0.8
   Ascension-Balance: ^1.1.4
   hopfarm-limit-fix: ^0.1.2
-  Mod-KI-Team-Liga: ^2.0.1
   ai-ox-tethers: ^1.0.3
-  KIPaketLordPhoenix: ^1.0.0
   workers: ^0.0.1
   citizens: ^1.0.0
   framework: ">=3.0.7"
